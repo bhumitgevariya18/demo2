@@ -11,8 +11,5 @@
 //direct change in master
 //TOYYYYYY
 //lol
-<<<<<<< Updated upstream
 //lol2
-=======
->>>>>>> Stashed changes
 ?>
